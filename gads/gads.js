@@ -1,3 +1,4 @@
+/**gads version 1.0.0*/
 function gads(client,slot,parent){
 
   this.client = client;
@@ -35,20 +36,20 @@ function checkForAds(selector){
 }
 
 var c = {
+  /*
+  change this file as you wish remember you need to put a name client and slot like following
+  */
    adsHeader:{
-     client:"ca-pub-4130016885702357",
-     slot:"7632206493"
+     client:"client-code",
+     slot:"slot-code"
    },
    adsFooter:{
-     client:"ca-pub-4130016885702357",
-     slot:"7424608342"
+     client:"client-code",
+     slot:"slot-code-2"
    },
-   adsBc1:{
-     client:"ca-pub-4130016885702357",
-     slot:"1372854244"
-   }
+   /*can continue this code just adding more*/
 };
-
+/*adsname contains your ads parent class name*/
 adsname =new Array(
   ".adsHeader",
   ".adsFooter",
@@ -56,7 +57,6 @@ adsname =new Array(
 );
 (function(){
   for(ad in adsname){
-    //alert(adsname[ad]);
     checkForAds(adsname[ad]);
   }
 })();
