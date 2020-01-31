@@ -8,5 +8,5 @@ Its simple you just ads parent classes where your ads will go on adsname variabl
 next on your html you ads a div with classes defined on adsname. for example:
 
 <code>
-  <div class="ads1"></div>
+  &lt;div class=&quot;ads1&quot;&gt;&lt;/div&gt;
 </code>
