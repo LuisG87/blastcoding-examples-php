@@ -14,7 +14,23 @@ adsname =new Array(
   ".ads3"
 );
 ```
-
+c object are your ads credential all ads has a client and a slot credential you can get it at your google adsense ads block
+```
+var c = {
+   adsHeader:{
+     client:"client-code",
+     slot:"slot-code-1"
+   },
+   adsFooter:{
+     client:"client-code",
+     slot:"slot-code-2"
+   },
+   adsBc1:{
+     client:"client-code",
+     slot:"slot-code-3"
+   }
+};
+```
 next on your html you add a div with classes defined on adsname. for example:
 
 <code>
