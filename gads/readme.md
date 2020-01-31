@@ -2,8 +2,9 @@
 
 
 <h1>How to use gads ?</h1>
+<p>
+Its simple you just add parent classes where your ads will go on adsname variable, next you ads your ads credentials in your c variable thats its an object.</p>
 
-Its simple you just add parent classes where your ads will go on adsname variable, next you ads your ads credentials in your c variable thats its an object.
 An example of adsname variable:
 
 ```
