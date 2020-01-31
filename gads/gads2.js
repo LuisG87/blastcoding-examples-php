@@ -1,3 +1,4 @@
+/*gads vewrsion 1.0.1*/
 function gads(client,slot,parent){
 
   this.client = client;
@@ -46,16 +47,16 @@ function checkForAds(selector){
 
 var c = {
    adsHeader:{
-     client:"ca-pub-4130016885702357",
-     slot:"7632206493"
+     client:"client-code",
+     slot:"slot-code-1"
    },
    adsFooter:{
-     client:"ca-pub-4130016885702357",
-     slot:"7424608342"
+     client:"client-code",
+     slot:"slot-code-2"
    },
    adsBc1:{
-     client:"ca-pub-4130016885702357",
-     slot:"1372854244"
+     client:"client-code",
+     slot:"slot-code-3"
    }
 };
 
