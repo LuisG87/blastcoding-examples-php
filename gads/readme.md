@@ -9,9 +9,9 @@ An example of adsname variable:
 
 ```
 adsname =new Array(
-  ".adsHeader",
-  ".adsFooter",
-  ".adsbc1"
+  ".ads1",
+  ".ads2",
+  ".ads3"
 );
 ```
 
