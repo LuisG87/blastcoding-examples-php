@@ -5,7 +5,7 @@
 
 Its simple you just ads parent classes where your ads will go on adsname variable, next you ads your ads credentials in your c variable thats its an object.
 
-next on your html you ads a div with classes defined on adsname. for example:
+next on your html you add a div with classes defined on adsname. for example:
 
 <code>
   &lt;div class=&quot;ads1&quot;&gt;&lt;/div&gt;
