@@ -14,7 +14,7 @@ adsname =new Array(
   ".ads3"
 );
 ```
-c object are your ads credential all ads has a client and a slot credential you can get it at your google adsense ads block
+c object are your ads credential all ads has a client and a slot credential you can get it at your google adsense ads blocks
 ```
 var c = {
    adsHeader:{
