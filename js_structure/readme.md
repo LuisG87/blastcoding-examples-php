@@ -1,6 +1,6 @@
 <a href="blastcoding.com">blastcoding.com</a>
 
-<h1>bcjs_structure<h1>
+<h1>bcjs_structure</h1>
 <p>this function helps you to crate an structure of html objects with javascript, lets see a little example of use</p>
   
  <h2>How to use</h2>
