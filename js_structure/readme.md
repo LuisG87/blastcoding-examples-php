@@ -27,7 +27,7 @@ As you can imagine you need to create a parent element, and append this as a chi
 
 but you can do this kind of things
 
-element(atributes)[text]
+>element(atributes)[text]
   >child(atributes)[text]
     >childofchild(atributes)[text]
     
